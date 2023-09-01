@@ -37,7 +37,7 @@ function draw() {
 background('#969A97');
 
   document.getElementById("font_size").innerHTML = "Tamanho da fonte sera = " + difference +"px";
-  textSize(diffence);
+  textSize(difference);
   fill('#F90093');
   text('Ruan', 50, 400);
 }
